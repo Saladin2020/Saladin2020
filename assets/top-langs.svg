@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="184" viewBox="0 0 420 184" role="img" aria-labelledby="title desc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="title">Top languages</title>
+  <desc id="desc">Top languages for Saladin2020: JavaScript 27.8%, PHP 23.3%, TypeScript 15.6%, Python 12.9%, Java 5.7%, CSS 5.0%, C# 5.0%, Hack 2.6%.</desc>
+    <text x="16" y="20" fill="#24292f" font-size="15" font-weight="600" text-anchor="start" dominant-baseline="middle">Most Used Languages</text>
+  <defs>
+    <clipPath id="lang-bar"><rect x="16" y="38" width="388" height="8" rx="4" ry="4"/></clipPath>
+  </defs>
+  <g clip-path="url(#lang-bar)">
+    <rect x="16.00" y="38" width="107.72" height="8" fill="#f1e05a"/>
+    <rect x="123.72" y="38" width="90.56" height="8" fill="#4F5D95"/>
+    <rect x="214.28" y="38" width="60.57" height="8" fill="#3178c6"/>
+    <rect x="274.85" y="38" width="50.04" height="8" fill="#3572A5"/>
+    <rect x="324.90" y="38" width="22.16" height="8" fill="#b07219"/>
+    <rect x="347.06" y="38" width="19.55" height="8" fill="#563d7c"/>
+    <rect x="366.61" y="38" width="19.37" height="8" fill="#178600"/>
+    <rect x="385.98" y="38" width="10.16" height="8" fill="#878787"/>
+    <rect x="396.14" y="38" width="7.86" height="8" fill="#d0d7de"/>
+  </g>
+  <circle cx="21" cy="70" r="4.5" fill="#f1e05a" stroke="#8c959f" stroke-width="1"/>
+    <text x="32" y="70" fill="#24292f" font-size="13" font-weight="500" text-anchor="start" dominant-baseline="middle">JavaScript</text>
+    <text x="202" y="70" fill="#57606a" font-size="12" font-weight="400" text-anchor="end" dominant-baseline="middle">27.8%</text>
+  <circle cx="223" cy="70" r="4.5" fill="#4F5D95"/>
+    <text x="234" y="70" fill="#24292f" font-size="13" font-weight="500" text-anchor="start" dominant-baseline="middle">PHP</text>
+    <text x="404" y="70" fill="#57606a" font-size="12" font-weight="400" text-anchor="end" dominant-baseline="middle">23.3%</text>
+  <circle cx="21" cy="98" r="4.5" fill="#3178c6"/>
+    <text x="32" y="98" fill="#24292f" font-size="13" font-weight="500" text-anchor="start" dominant-baseline="middle">TypeScript</text>
+    <text x="202" y="98" fill="#57606a" font-size="12" font-weight="400" text-anchor="end" dominant-baseline="middle">15.6%</text>
+  <circle cx="223" cy="98" r="4.5" fill="#3572A5"/>
+    <text x="234" y="98" fill="#24292f" font-size="13" font-weight="500" text-anchor="start" dominant-baseline="middle">Python</text>
+    <text x="404" y="98" fill="#57606a" font-size="12" font-weight="400" text-anchor="end" dominant-baseline="middle">12.9%</text>
+  <circle cx="21" cy="126" r="4.5" fill="#b07219"/>
+    <text x="32" y="126" fill="#24292f" font-size="13" font-weight="500" text-anchor="start" dominant-baseline="middle">Java</text>
+    <text x="202" y="126" fill="#57606a" font-size="12" font-weight="400" text-anchor="end" dominant-baseline="middle">5.7%</text>
+  <circle cx="223" cy="126" r="4.5" fill="#563d7c"/>
+    <text x="234" y="126" fill="#24292f" font-size="13" font-weight="500" text-anchor="start" dominant-baseline="middle">CSS</text>
+    <text x="404" y="126" fill="#57606a" font-size="12" font-weight="400" text-anchor="end" dominant-baseline="middle">5.0%</text>
+  <circle cx="21" cy="154" r="4.5" fill="#178600"/>
+    <text x="32" y="154" fill="#24292f" font-size="13" font-weight="500" text-anchor="start" dominant-baseline="middle">C#</text>
+    <text x="202" y="154" fill="#57606a" font-size="12" font-weight="400" text-anchor="end" dominant-baseline="middle">5.0%</text>
+  <circle cx="223" cy="154" r="4.5" fill="#878787"/>
+    <text x="234" y="154" fill="#24292f" font-size="13" font-weight="500" text-anchor="start" dominant-baseline="middle">Hack</text>
+    <text x="404" y="154" fill="#57606a" font-size="12" font-weight="400" text-anchor="end" dominant-baseline="middle">2.6%</text>
+</svg>
