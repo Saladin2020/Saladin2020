@@ -37,8 +37,14 @@ Personal portfolio site (TypeScript).
 ## สถิติ · Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Saladin2020&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saladin2020&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-stats-dark.svg" />
+    <img height="160" src="assets/github-stats.svg" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/top-langs-dark.svg" />
+    <img height="160" src="assets/top-langs.svg" alt="Top languages" />
+  </picture>
 </p>
 
 ---
