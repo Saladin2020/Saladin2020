@@ -1,15 +1,20 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-  <img width="100%" src="assets/header.svg" alt="Salahuddin Benno — full-stack apps, AI agent workflows, developer tools" />
-</picture>
+<img width="100%" src="assets/header-salam.png" alt="Assalamu'alaikum: Salahuddin Benno, Thai Muslim engineer building game and dev tools for every culture. Pixel-art village with a Buddhist temple, a Chinese shrine, a kampung house and a wooden mosque side by side." />
 
-### สวัสดีครับ 👋 ผม **ซอลาฮุดดีน เบนโน** · Salahuddin Benno
+### อัสสะลามุอะลัยกุม 👋 / Assalamu'alaikum
 
-ผมทำเว็บแอปแบบ full-stack เวิร์กโฟลว์สำหรับ AI agent และเครื่องมือสำหรับนักพัฒนา
-ส่วนเวลาว่างก็ทำแอนิเมชันวาดมือ และเกม 2D อินดี้ด้วย Godot กับ Aseprite
+ผม **ซอลาฮุดดีน เบนโน** (Salahuddin Benno) วิศวกรมุสลิมชาวไทย
+ผมทำเครื่องมือทำเกมและเครื่องมือสำหรับนักพัฒนาที่ใช้ได้กับทุกวัฒนธรรม
+งานหลักคือเว็บแอปแบบ full-stack, เวิร์กโฟลว์สำหรับ AI agent และ dev tools เล็ก ๆ ที่ทำงานเร็ว
+เวลาว่างผมทำแอนิเมชันวาดมือ และเกม 2D อินดี้ด้วย Godot กับ Aseprite
 
-I build full-stack web apps, AI agent workflows and small, fast developer tools. On the side I make
-hand-painted animations and indie 2D games with Godot and Aseprite, which is where **Easy Suite** came from.
+I'm a Thai Muslim engineer. I build game and developer tools for every culture: full-stack web apps,
+AI agent workflows and small, fast dev tools. On the side I make hand-painted animations and indie 2D
+games with Godot and Aseprite, which is where **Easy Suite** came from.
+
+ผมอยากให้เครื่องมือของผมเล่าเรื่องชุมชนที่วัด มัสยิด และศาลเจ้าอยู่บนถนนเดียวกันได้
+ไม่ว่าจะเป็นพระบิณฑบาตยามเช้า ร้านโรตีหน้ามัสยิด หรือการเตรียมขนมตูปะช่วงวันรายอ
+
+I want game makers to be able to tell stories where the wat, the masjid and the shrine share one street.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-c45c26?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-three-nu-t7xr2qj34b.vercel.app)
 [![Site](https://img.shields.io/badge/saladin2020.github.io-site-555?style=flat-square&logo=githubpages&logoColor=white)](https://saladin2020.github.io/)
@@ -20,12 +25,20 @@ hand-painted animations and indie 2D games with Godot and Aseprite, which is whe
 
 ## 🏮 Easy Suite · ชุดเครื่องมือทำเกมพิกเซลสไตล์ไทย
 
-<img src="assets/easy-suite/banner-suite.png" width="100%" alt="Easy Suite: Thai-friendly pixel-art game dev tools for Godot 4.3+ and PixiJS v8" />
+<img src="assets/easy-suite/banner-suite-v2.png" width="100%" alt="Easy Suite: Thai-friendly pixel-art game dev tools for Godot 4.3+ and PixiJS v8, shown over a village street with a temple, a shrine, a kampung house and a mosque" />
 
 Seven small, local-first tools for making cozy Thai pixel-art games: characters, side-view scenes, top-down
 maps, dialogue, quests, sound and UI. Each one has a CLI, a web editor and an MCP server, and exports to
 **Godot 4.3+** and **PixiJS v8**. ทำตัวละคร ฉาก แผนที่ บทสนทนา เควสต์ เสียง และ UI ได้ครบในชุดเดียว
 รองรับภาษาไทยเต็มรูปแบบ
+
+**Multicultural village samples · หมู่บ้านพหุวัฒนธรรม:** the samples now include a southern Thai Muslim
+community next to the temple, the market and the Chinese shrine. You get hijab, tudung, kopiah, songkok, baju
+melayu, baju kurung and kain pelekat sprite parts, a wooden mosque and a kampung house, a Tadika, a roti
+teashop and a halal stall. There's also a dialogue where neighbours greet each other with salam, a
+Ramadan-to-Hari-Raya quest, rebana and rammana drums, and a green-and-gold Raya UI style.
+ชุดตัวอย่างมีชุมชนมุสลิมภาคใต้ต่อจากวัด ตลาด และศาลเจ้าเดิม ทั้งเครื่องแต่งกาย มัสยิดไม้ บ้านกำปง ตาดีกา
+ร้านโรตี บทสนทนาให้สลาม เควสต์รอมฎอนถึงวันรายอ เสียงรำมะนาและรือบานา
 
 <table>
   <tr>
@@ -173,6 +186,6 @@ maps, dialogue, quests, sound and UI. Each one has a CLI, a web editor and an MC
 ---
 
 <p align="center">
-  <em>เปิดให้คุยเรื่องโปรเจกต์ งานวิศวกรรม เครื่องมือ AI และเกมอินดี้ได้เสมอครับ</em><br/>
-  <sub>Open to chats about engineering projects, developer tools, AI tooling and indie games.</sub>
+  <em>เปิดให้คุยเรื่องโปรเจกต์ งานวิศวกรรม เครื่องมือ AI และเกมอินดี้ได้เสมอครับ · ญะซากัลลอฮุค็อยร็อน</em><br/>
+  <sub>Open to chats about engineering projects, developer tools, AI tooling and indie games. Thanks for stopping by!</sub>
 </p>
