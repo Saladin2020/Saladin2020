@@ -27,9 +27,9 @@ I want game makers to be able to tell stories where the wat, the masjid and the 
 
 <img src="assets/easy-suite/banner-suite-v2.png" width="100%" alt="Easy Suite: Thai-friendly pixel-art game dev tools for Godot 4.3+ and PixiJS v8, shown over a village street with a temple, a shrine, a kampung house and a mosque" />
 
-Seven small, local-first tools for making cozy Thai pixel-art games: characters, side-view scenes, top-down
-maps, dialogue, quests, sound and UI. Each one has a CLI, a web editor and an MCP server, and exports to
-**Godot 4.3+** and **PixiJS v8**. ทำตัวละคร ฉาก แผนที่ บทสนทนา เควสต์ เสียง และ UI ได้ครบในชุดเดียว
+Eight small, local-first tools for making cozy Thai pixel-art games: characters, side-view scenes, top-down
+maps, dialogue, quests, sound, UI and particle effects. Each one has a CLI, a web editor and an MCP server, and exports to
+**Godot 4.3+** and **PixiJS v8**. ทำตัวละคร ฉาก แผนที่ บทสนทนา เควสต์ เสียง UI และเอฟเฟกต์ได้ครบในชุดเดียว
 รองรับภาษาไทยเต็มรูปแบบ
 
 **Multicultural village samples · หมู่บ้านพหุวัฒนธรรม:** the samples now include a southern Thai Muslim
@@ -86,11 +86,16 @@ Ramadan-to-Hari-Raya quest, rebana and rammana drums, and a green-and-gold Raya 
       <sub>ชุด UI พิกเซล ฟอนต์ไทย</sub><br />
       <sub>Nine-slice pixel UI kit with Thai text</sub>
     </td>
-    <td align="center" valign="middle" width="25%">
-      <sub><b>Godot 4.3+ · PixiJS v8</b><br />CLI · web editor · MCP server<br />MIT · local-first</sub>
+    <td align="center" valign="top" width="25%">
+      <a href="https://github.com/Saladin2020/easyfx"><img src="assets/easy-suite/logo-fx-96.png" width="64" alt="Easy FX" /></a><br />
+      <a href="https://github.com/Saladin2020/easyfx"><b>Easy FX</b></a><br />
+      <sub>พาร์ทิเคิลพิกเซลและเอฟเฟกต์</sub><br />
+      <sub>Pixel particles and effects for 2D games</sub>
     </td>
   </tr>
 </table>
+
+<p align="center"><sub><b>Godot 4.3+ · PixiJS v8</b> · CLI · web editor · MCP server · MIT · local-first</sub></p>
 
 <details>
 <summary><b>▶ A short story made only with Easy Suite (4× speed)</b> · เรื่องสั้น “ต้นส่งของยามเช้า”</summary>
