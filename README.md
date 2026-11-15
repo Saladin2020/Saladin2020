@@ -27,9 +27,27 @@ I want game makers to be able to tell stories where the wat, the masjid and the 
 
 <img src="assets/easy-suite/banner-suite-v2.png" width="100%" alt="Easy Suite: Thai-friendly pixel-art game dev tools for Godot 4.3+ and PixiJS v8, shown over a village street with a temple, a shrine, a kampung house and a mosque" />
 
-Eight small, local-first tools for making cozy Thai pixel-art games: characters, side-view scenes, top-down
-maps, dialogue, quests, sound, UI and particle effects. Each one has a CLI, a web editor and an MCP server, and exports to
-**Godot 4.3+** and **PixiJS v8**. ทำตัวละคร ฉาก แผนที่ บทสนทนา เควสต์ เสียง UI และเอฟเฟกต์ได้ครบในชุดเดียว
+<p align="center">
+  <a href="https://github.com/Saladin2020/easysprite"><img src="assets/easy-suite/logo-sprite-96.png" width="32" alt="Easy Sprite" title="Easy Sprite" /></a>
+  <a href="https://github.com/Saladin2020/easyscene"><img src="assets/easy-suite/logo-scene-96.png" width="32" alt="Easy Scene" title="Easy Scene" /></a>
+  <a href="https://github.com/Saladin2020/easytilemap"><img src="assets/easy-suite/logo-tilemap-96.png" width="32" alt="Easy Tilemap" title="Easy Tilemap" /></a>
+  <a href="https://github.com/Saladin2020/easydialogue"><img src="assets/easy-suite/logo-dialogue-96.png" width="32" alt="Easy Dialogue" title="Easy Dialogue" /></a>
+  <a href="https://github.com/Saladin2020/easyquest"><img src="assets/easy-suite/logo-quest-96.png" width="32" alt="Easy Quest" title="Easy Quest" /></a>
+  <a href="https://github.com/Saladin2020/easyui"><img src="assets/easy-suite/logo-ui-96.png" width="32" alt="Easy UI" title="Easy UI" /></a>
+  <a href="https://github.com/Saladin2020/easysfx"><img src="assets/easy-suite/logo-sfx-96.png" width="32" alt="Easy SFX" title="Easy SFX" /></a>
+  <a href="https://github.com/Saladin2020/easyfx"><img src="assets/easy-suite/logo-fx-96.png" width="32" alt="Easy FX" title="Easy FX" /></a>
+  <a href="https://github.com/Saladin2020/easymusic"><img src="assets/easy-suite/logo-music-96.png" width="32" alt="Easy Music" title="Easy Music" /></a>
+  <a href="https://github.com/Saladin2020/easyanim"><img src="assets/easy-suite/logo-anim-96.png" width="32" alt="Easy Anim" title="Easy Anim" /></a>
+  <a href="https://github.com/Saladin2020/easyitems"><img src="assets/easy-suite/logo-items-96.png" width="32" alt="Easy Items" title="Easy Items" /></a>
+  <a href="https://github.com/Saladin2020/easysave"><img src="assets/easy-suite/logo-save-96.png" width="32" alt="Easy Save" title="Easy Save" /></a>
+  <a href="https://github.com/Saladin2020/easykit"><img src="assets/easy-suite/logo-kit-96.png" width="32" alt="Easy Kit" title="Easy Kit" /></a>
+</p>
+
+Thirteen small, local-first tools for making cozy Thai pixel-art games: characters, side-view scenes, top-down
+maps, dialogue, quests, UI, sound, particle effects, music, cutscenes, items and saves with Thai / English / Malay
+text, plus **Easy Kit**, which drives the other twelve to build a whole playable game in one command. Each one has a
+CLI, a web editor and an MCP server, and exports to **Godot 4.3+** and **PixiJS v8**.
+ทำตัวละคร ฉาก แผนที่ บทสนทนา เควสต์ UI เสียง เอฟเฟกต์ เพลง คัตซีน ไอเทม และเซฟเกมได้ครบในชุดเดียว
 รองรับภาษาไทยเต็มรูปแบบ
 
 **Multicultural village samples · หมู่บ้านพหุวัฒนธรรม:** the samples now include a southern Thai Muslim
@@ -55,16 +73,16 @@ Ramadan-to-Hari-Raya quest, rebana and rammana drums, and a green-and-gold Raya 
       <sub>Side-view parallax scenes, autotiles & props</sub>
     </td>
     <td align="center" valign="top" width="25%">
-      <a href="https://github.com/Saladin2020/easydialogue"><img src="assets/easy-suite/logo-dialogue-96.png" width="64" alt="Easy Dialogue" /></a><br />
-      <a href="https://github.com/Saladin2020/easydialogue"><b>Easy Dialogue</b></a><br />
-      <sub>บทสนทนาเกม ภาษาไทยสระไม่ลอย</sub><br />
-      <sub>Branching dialogue, Thai-safe text & portraits</sub>
-    </td>
-    <td align="center" valign="top" width="25%">
       <a href="https://github.com/Saladin2020/easytilemap"><img src="assets/easy-suite/logo-tilemap-96.png" width="64" alt="Easy Tilemap" /></a><br />
       <a href="https://github.com/Saladin2020/easytilemap"><b>Easy Tilemap</b></a><br />
       <sub>แผนที่มุมบน ออโต้ไทล์ หมู่บ้านไทย</sub><br />
       <sub>Top-down 16px tile maps with autotiling</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://github.com/Saladin2020/easydialogue"><img src="assets/easy-suite/logo-dialogue-96.png" width="64" alt="Easy Dialogue" /></a><br />
+      <a href="https://github.com/Saladin2020/easydialogue"><b>Easy Dialogue</b></a><br />
+      <sub>บทสนทนาเกม ภาษาไทยสระไม่ลอย</sub><br />
+      <sub>Branching dialogue, Thai-safe text & portraits</sub>
     </td>
   </tr>
   <tr>
@@ -75,22 +93,55 @@ Ramadan-to-Hari-Raya quest, rebana and rammana drums, and a green-and-gold Raya 
       <sub>Text quests linked to Easy Dialogue</sub>
     </td>
     <td align="center" valign="top" width="25%">
-      <a href="https://github.com/Saladin2020/easysfx"><img src="assets/easy-suite/logo-sfx-96.png" width="64" alt="Easy SFX" /></a><br />
-      <a href="https://github.com/Saladin2020/easysfx"><b>Easy SFX</b></a><br />
-      <sub>เสียง 8-bit และเพลง chiptune</sub><br />
-      <sub>Deterministic 8-bit SFX & chiptune loops</sub>
-    </td>
-    <td align="center" valign="top" width="25%">
       <a href="https://github.com/Saladin2020/easyui"><img src="assets/easy-suite/logo-ui-96.png" width="64" alt="Easy UI" /></a><br />
       <a href="https://github.com/Saladin2020/easyui"><b>Easy UI</b></a><br />
       <sub>ชุด UI พิกเซล ฟอนต์ไทย</sub><br />
       <sub>Nine-slice pixel UI kit with Thai text</sub>
     </td>
     <td align="center" valign="top" width="25%">
+      <a href="https://github.com/Saladin2020/easysfx"><img src="assets/easy-suite/logo-sfx-96.png" width="64" alt="Easy SFX" /></a><br />
+      <a href="https://github.com/Saladin2020/easysfx"><b>Easy SFX</b></a><br />
+      <sub>เสียง 8-bit และเพลง chiptune</sub><br />
+      <sub>Deterministic 8-bit SFX & chiptune loops</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
       <a href="https://github.com/Saladin2020/easyfx"><img src="assets/easy-suite/logo-fx-96.png" width="64" alt="Easy FX" /></a><br />
       <a href="https://github.com/Saladin2020/easyfx"><b>Easy FX</b></a><br />
       <sub>พาร์ทิเคิลพิกเซลและเอฟเฟกต์</sub><br />
       <sub>Pixel particles and effects for 2D games</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://github.com/Saladin2020/easymusic"><img src="assets/easy-suite/logo-music-96.png" width="64" alt="Easy Music" /></a><br />
+      <a href="https://github.com/Saladin2020/easymusic"><b>Easy Music</b></a><br />
+      <sub>เพลงลูปไทย ระนาด ฆ้องวง ซอ</sub><br />
+      <sub>Seeded Thai loop music, seamless WAV/OGG</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://github.com/Saladin2020/easyanim"><img src="assets/easy-suite/logo-anim-96.png" width="64" alt="Easy Anim" /></a><br />
+      <a href="https://github.com/Saladin2020/easyanim"><b>Easy Anim</b></a><br />
+      <sub>คัตซีน กล้อง บทพูด เพลง</sub><br />
+      <sub>Cutscene timelines with Godot + Pixi runners</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://github.com/Saladin2020/easyitems"><img src="assets/easy-suite/logo-items-96.png" width="64" alt="Easy Items" /></a><br />
+      <a href="https://github.com/Saladin2020/easyitems"><b>Easy Items</b></a><br />
+      <sub>ไอเทม ร้านค้า กระเป๋า คราฟต์</sub><br />
+      <sub>Items, shops, inventory, loot & crafting</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://github.com/Saladin2020/easysave"><img src="assets/easy-suite/logo-save-96.png" width="64" alt="Easy Save" /></a><br />
+      <a href="https://github.com/Saladin2020/easysave"><b>Easy Save</b></a><br />
+      <sub>เซฟเกม แปลภาษา ไทย อังกฤษ มลายู</sub><br />
+      <sub>Save slots + Thai / English / Malay strings</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center" valign="top">
+      <a href="https://github.com/Saladin2020/easykit"><img src="assets/easy-suite/logo-kit-96.png" width="64" alt="Easy Kit" /></a><br />
+      <a href="https://github.com/Saladin2020/easykit"><b>Easy Kit</b></a> · <sub>ทั้งเกมจาก 12 เครื่องมือในคำสั่งเดียว</sub><br />
+      <sub>One command → a playable Godot + Pixi game: characters, map, dialogue, quest, shop, cutscene, music, FX, saves, th / en / ms</sub>
     </td>
   </tr>
 </table>
